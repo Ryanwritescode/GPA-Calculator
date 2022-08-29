@@ -593,8 +593,3 @@ elif format_GPA <= 3.00:
     print("Congratulations You Have Made The Cum Laude Honor Roll")
 elif format_GPA>=3.39:
     print("Congratulations You Have Made The Cum Laude Honor Roll")
-
-
-
-
-
